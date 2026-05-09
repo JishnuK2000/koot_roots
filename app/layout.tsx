@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "KootRoots | Authentic Kerala Spices",
+  title: "Kooturoots | Authentic Kerala Spices",
   description: "Rooted in Kerala. Crafted with Tradition. Premium homemade curry powders.",
 };
 

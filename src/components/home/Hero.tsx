@@ -79,7 +79,7 @@ export default function Hero() {
               >
                 <Image
                   src="/images/product1.png"
-                  alt="KootRoots Premium Spice Pack"
+                  alt="Kooturoots Premium Spice Pack"
                   width={400}
                   height={500}
                   className="w-full h-auto object-contain"
@@ -95,7 +95,7 @@ export default function Hero() {
               >
                 <Image
                   src="/images/product2.png"
-                  alt="KootRoots Spice Pack"
+                  alt="Kooturoots Spice Pack"
                   width={300}
                   height={400}
                   className="w-full h-auto object-contain -rotate-6"
@@ -110,7 +110,7 @@ export default function Hero() {
               >
                 <Image
                   src="/images/product3.png"
-                  alt="KootRoots Spice Pack"
+                  alt="Kooturoots Spice Pack"
                   width={300}
                   height={400}
                   className="w-full h-auto object-contain rotate-12"

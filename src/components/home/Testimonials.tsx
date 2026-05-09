@@ -7,19 +7,22 @@ const testimonials = [
   {
     name: "Anjali Menon",
     role: "Home Chef",
-    review: "The Sambar powder took me straight back to my grandmother's kitchen in Palakkad. The aroma is unbelievably authentic and fresh.",
+    review:
+      "The Sambar Masala took me straight back to my grandmother's kitchen in Palakkad. The aroma feels truly authentic and freshly ground.",
     rating: 5,
   },
   {
     name: "Rahul Nair",
     role: "Food Enthusiast",
-    review: "I've tried many store-bought meat masalas, but nothing comes close to KootRoots. You can literally taste the quality of the roasted spices.",
+    review:
+      "I tried the Chicken Curry Masala for a weekend dinner and the flavors were amazing. It gave the curry a rich homemade Kerala taste.",
     rating: 5,
   },
   {
     name: "Sneha Joseph",
     role: "Working Professional",
-    review: "Making a quick fish curry after work is so easy now. It tastes exactly like how my mom makes it. A lifesaver for busy days!",
+    review:
+      "The Chickpeas Masala makes cooking so much easier after work. Quick, flavorful, and tastes just like a homemade dish.",
     rating: 5,
   },
 ];

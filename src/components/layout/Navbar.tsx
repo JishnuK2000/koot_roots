@@ -27,7 +27,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center">
           <Image
             src="/images/logo.png"
-            alt="KootRoots Logo"
+            alt="Kooturootss Logo"
             width={140}
             height={50}
             className="object-contain"

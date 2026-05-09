@@ -1,18 +1,23 @@
 import Link from "next/link";
 import { Mail, MapPin, Phone, MessageCircle, Hash, Globe } from "lucide-react";
-
+import Image from "next/image";
 export default function Footer() {
   return (
     <footer className="bg-brand-dark text-stone-300 pt-20 pb-10">
       <div className="container mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
           <div className="col-span-1 md:col-span-1">
-            <Link href="/" className="inline-block mb-6">
-              <span className="text-3xl font-bold tracking-tight text-white">
-                Koot<span className="text-brand-orange">Roots</span>
-              </span>
+            <Link href="/" className="flex items-center">
+              <Image
+                src="/images/logowhite.png"
+                alt="Kooturootss Logo"
+                width={140}
+                height={50}
+                className="object-contain"
+                priority
+              />
             </Link>
-            <p className="text-stone-400 mb-6 leading-relaxed">
+            <p className="text-stone-400 mb-6 mt-6 leading-relaxed">
               Bringing the authentic taste of Kerala to your kitchen. Crafted with passion, rooted in tradition.
             </p>
             <div className="flex gap-4">
@@ -86,7 +91,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-stone-500">
-          <p>&copy; {new Date().getFullYear()} KootRoots. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Kooturoots. All rights reserved.</p>
           <div className="flex gap-6">
             <Link href="#" className="hover:text-white transition-colors">Privacy Policy</Link>
             <Link href="#" className="hover:text-white transition-colors">Terms of Service</Link>

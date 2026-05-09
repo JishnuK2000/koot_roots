@@ -28,7 +28,7 @@ export default function BrandStory() {
               <div className="absolute bottom-8 left-8 right-8 z-20">
                 <div className="bg-white/20 backdrop-blur-md border border-white/30 p-6 rounded-2xl text-white">
                   <p className="font-medium text-lg mb-2">"We offer unique traditional kerala spices made with love and care, saving time in cooking while ensuring great taste and supporting local farmers."</p>
-                  <p className="text-white/80 text-sm">Founders, KootRoots</p>
+                  <p className="text-white/80 text-sm">Founders, Kooturoots</p>
                 </div>
               </div>
             </motion.div>
@@ -48,7 +48,7 @@ export default function BrandStory() {
 
               <div className="space-y-6 text-stone-600 text-lg mb-10">
                 <p>
-                  KootRoots was born out of a shared nostalgia. Two friends, miles away from home, longing for the comforting, aromatic embrace of a true Kerala curry.
+                  Kooturoots was born out of a shared nostalgia. Two friends, miles away from home, longing for the comforting, aromatic embrace of a true Kerala curry.
                 </p>
                 <p>
                   Frustrated by the artificial, preservative-heavy options in stores, we decided to go back to our roots. We sourced handpicked ingredients, followed our grandmothers' traditional recipes, and created blends that capture the authentic essence of homemade Kerala food.

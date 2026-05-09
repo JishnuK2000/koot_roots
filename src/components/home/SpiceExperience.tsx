@@ -91,7 +91,7 @@ export default function SpiceExperience() {
             </h3>
 
             <p className="text-xl md:text-2xl text-stone-300 font-light leading-relaxed max-w-2xl mx-auto mb-12">
-              Every pinch of KootRoots carries the rich, sun-drenched aroma of
+              Every pinch of Kooturootss carries the rich, sun-drenched aroma of
               Kerala&apos;s spice gardens directly to your soul.
             </p>
 
