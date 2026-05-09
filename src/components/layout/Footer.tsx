@@ -49,11 +49,11 @@ export default function Footer() {
               <li><Link href="#story" className="hover:text-brand-orange transition-colors">Our Story</Link></li>
               <li><Link href="#products" className="hover:text-brand-orange transition-colors">Shop Products</Link></li>
               <li><Link href="#experience" className="hover:text-brand-orange transition-colors">The Experience</Link></li>
-              <li><Link href="#" className="hover:text-brand-orange transition-colors">Recipes</Link></li>
+              {/* <li><Link href="#" className="hover:text-brand-orange transition-colors">Recipes</Link></li> */}
             </ul>
           </div>
 
-          <div>
+          {/* <div>
             <h4 className="text-white font-semibold mb-6 text-lg">Support</h4>
             <ul className="space-y-4">
               <li><Link href="#" className="hover:text-brand-orange transition-colors">FAQ</Link></li>
@@ -61,7 +61,7 @@ export default function Footer() {
               <li><Link href="#" className="hover:text-brand-orange transition-colors">Returns</Link></li>
               <li><Link href="#" className="hover:text-brand-orange transition-colors">Contact Us</Link></li>
             </ul>
-          </div>
+          </div> */}
 
           <div>
             <h4 className="text-white font-semibold mb-6 text-lg">Contact</h4>
